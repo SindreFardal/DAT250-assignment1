@@ -1,10 +1,10 @@
-package de.vogella.jpa.eclipselink;
+package de.vogella.jpa.eclipselink.main;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class main 
 {
     public static void main( String[] args )
     {
